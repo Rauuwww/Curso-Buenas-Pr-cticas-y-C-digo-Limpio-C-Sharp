@@ -1,7 +1,8 @@
 # Curso Buenas Practicas y Codigo Limpio C Sharp
 Curso de buenas practicas de platzi 
 
-#Resumen de en que consiten las buenas practicas y codigo limpio.
+# Resumen de en que consiten las buenas practicas y codigo limpio.
+![](https://i.imgur.com/rQKoWDX.png)
 
 ### Buenas Prácticas:
 Estándares comprobados y verificados

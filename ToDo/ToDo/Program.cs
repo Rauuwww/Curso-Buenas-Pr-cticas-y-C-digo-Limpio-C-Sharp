@@ -42,8 +42,8 @@ namespace ToDo
             Console.WriteLine("4. Salir");
 
             // Read line
-            string line = Console.ReadLine();
-            return Convert.ToInt32(line);
+            string menuSelected = Console.ReadLine();
+            return Convert.ToInt32(menuSelected);
         }
 
         public static void ShowMenuRemove()
@@ -81,8 +81,8 @@ namespace ToDo
             try
             {
                 Console.WriteLine("Ingrese el nombre de la tarea: ");
-                string newtask = Console.ReadLine();
-                TaskList.Add(newtask);
+                string newTask = Console.ReadLine();
+                TaskList.Add(newTask);
                 Console.WriteLine("Tarea registrada");
             }
             catch (Exception)
